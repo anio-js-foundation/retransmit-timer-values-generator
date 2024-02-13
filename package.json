@@ -1,0 +1,12 @@
+{
+  "name": "@anio-js-core-foundation/retransmit-timer-values-generator",
+  "version": "1.0.0",
+  "description": "A retransmission timeout number generator.",
+  "main": "index.mjs",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anio-js-core-foundation/retransmit-timer-values-generator.git"
+  }
+}
