@@ -1,9 +1,9 @@
-# @anio-js-core-foundation/retransmit-timer-values-generator
+# @anio-js-foundation/retransmit-timer-values-generator
 
 A retransmission timeout number generator.
 
 ```js
-import retransmitTimerValuesGenerator from "@anio-js-core-foundation/retransmit-timer-values-generator"
+import retransmitTimerValuesGenerator from "@anio-js-foundation/retransmit-timer-values-generator"
 
 //
 // Create a timeout value generator that will generate

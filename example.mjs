@@ -1,4 +1,4 @@
-import retransmitTimerValuesGenerator from "./index.mjs"
+import retransmitTimerValuesGenerator from "./src/index.mjs"
 
 //
 // Create a timeout value generator that will generate
