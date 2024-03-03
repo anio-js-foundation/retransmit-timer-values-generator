@@ -1,6 +1,6 @@
 {
   "name": "@anio-js-foundation/retransmit-timer-values-generator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A retransmission timeout number generator.",
   "main": "./dist/package.mjs",
   "author": "Anio Software <info@anio.software>",
